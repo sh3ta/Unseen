@@ -6,7 +6,7 @@ type Section = "all" | "confessions" | "thoughts" | "memories" | "questions" | "
 const words = {
  az: {
   eyebrow:"GÖRÜNƏNİN O TƏRƏFİNDƏ BİR DÜNYA", tagline:"Görünməyən tərəfini kəşf et.",
-  intro:"Fikirlər, xatirələr və içində saxladığın sözlər üçün sakit bir məkan.",
+  intro:"Fikirlər, xatirələr və içində saxladığın sözlər ",
   explore:"Kəşf et", write:"Anonim yaz", featured:"Sənin kainatın",
   featuredSub:"Bəzən demədiyimiz sözlər bizi ən yaxşı izah edir.",
   sections:"Kainatı kəşf et", all:"Hamısı", confessions:"Etiraflar", thoughts:"Fikirlər",
@@ -24,7 +24,7 @@ const words = {
  },
  en: {
   eyebrow:"A WORLD BEYOND THE VISIBLE", tagline:"Discover the unseen side of you.",
-  intro:"A quiet space for thoughts, memories, and words kept inside.",
+  intro:"Thoughts, memories, and words .",
   explore:"Explore", write:"Write anonymously", featured:"Your universe",
   featuredSub:"Sometimes the words we never say explain us best.",
   sections:"Explore the universe", all:"All", confessions:"Confessions", thoughts:"Thoughts",
